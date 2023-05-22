@@ -1,0 +1,20 @@
+.container{ 
+        text-align: center;
+        border: 3px solid green;
+}
+.center{
+    text-align:center;
+}
+ul,ol{
+    list-style-type: none;
+  }
+.rcorners2 {
+    border-radius: 15px;
+    border: 2px solid #73AD21;
+padding: 40px;
+    align-items: center;
+
+  }
+  .a{
+    text-align: center;
+  }
