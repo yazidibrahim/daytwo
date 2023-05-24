@@ -14,7 +14,7 @@
     },
     {
         id:"3",
-        title:"Pathanamthitta",
+        title:"PATHANAMTHITTA",
         description:"Known for its traditional arts and crafts",
         image:"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gavi%2C_Kerala.jpg/119px-Gavi%2C_Kerala.jpg"
     },
@@ -26,19 +26,19 @@
     },
     {
         id:"5",
-        title:"Kottayam",
+        title:"KOTTAYAM",
         description:"Known as the “Land of Letters, Lakes, and Latex" ,
         image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vembanad_Lake_at_Kumarakom.jpg/225px-Vembanad_Lake_at_Kumarakom.jpg"
     },
     {
         id:"6",
-        title:"Idukki",
+        title:"IDUKKI",
         description:"Has a large population of tribal communities, with many preserving their traditional way of life",
         image:"https://upload.wikimedia.org/wikipedia/commons/7/72/Idukki009.jpg"
     },
     {
         id:"7",
-        title:"Ernakulam",
+        title:"ERNAKULAM",
         description:"GOT RICH HISTORY",
         image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/INS_Vikrant_under_construction_at_Cochin_Shipyard.png/250px-INS_Vikrant_under_construction_at_Cochin_Shipyard.png"
     },
@@ -82,7 +82,7 @@
         id:"14",
         title:"KASARGOD",
         description:"UNIQUE CULTURE",
-        image:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chandragiri_River.jpg/1024px-Chandragiri_River.jpg"
+        image:"https://www.bekal.com/userfiles/1520923495_bekal-beach.jpg"
     }
 
 ]
